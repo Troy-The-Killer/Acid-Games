@@ -1,0 +1,6 @@
+discord.py
+asyncio
+random
+pyfiglet
+datetime
+secreto
