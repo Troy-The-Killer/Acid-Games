@@ -1,1 +1,1 @@
-acid: python "acid games.py"
+acid: python "acid.py"
